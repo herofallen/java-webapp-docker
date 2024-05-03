@@ -5,5 +5,6 @@
 <h1> This is our last test </h1>
 <h2>This is a test from Anthony</h2>
 <h2>Hello to my world</h2>
+<h1>This is the end of the docker training</h1>
 </body>
 </html>
